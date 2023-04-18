@@ -24,4 +24,4 @@ Es recomendable es que cada estudiante use [su cuenta en GitHub](https://github.
 
 - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-06) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-08) 
+###### [← CLASE PASADA](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-06) — [CLASE SIGUIENTE →](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-08) 
