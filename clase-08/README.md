@@ -1,6 +1,6 @@
 # HTML, SVG y CSS
 
-### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 08 → 26/09/2022
+### [Infografía Digital, 6ta. versión](https://github.com/jorgelcortes/dno075-2023-1#readme) → Clase 08 → 26/09/2022
 
 Ya hemos trabajado con HTML, CSS y SVG. Estamos aprovechando [Bootstrap 5](https://getbootstrap.com/) para acortar camino en el uso de HTML y CSS.
 
@@ -66,4 +66,4 @@ Las líneas por agregar pueden ser generadas con los servicios de **[Meta Tags](
 - - - - - - - - - - - - -
 
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-07) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-10) 
+###### [← CLASE PASADA](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-07) — [CLASE SIGUIENTE →](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-10) 

@@ -1,6 +1,6 @@
 # Implementación de gráficos con SVG para pantallas anchas
 
-### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 14 → 06/06/2023 
+### [Infografía Digital, 6ta. versión](https://github.com/jorgelcortes/dno075-2023-1#readme) → Clase 14 → 06/06/2023 
 
 En la clase de hoy revisaremos la manera en que justifican y resuelven cada gráfica, sea figurativa, no figurativa o mixta. 
 
@@ -15,8 +15,8 @@ Corresponde considerar que estas gráficas [muestran algo que complementa a un t
 
 Es importante que lo escrito también tenga alguna mejora respecto la clase recién pasada. Tal mejora puede estar publicada en el `README.md` de un nuevo repositorio de la organización: https://docs.github.com/es/organizations
 
-El avance de la clase de hoy será considerado en la [evaluación Nº4](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-17).
+El avance de la clase de hoy será considerado en la [evaluación Nº4](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-17).
 
 - - - - - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-13) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-15)
+###### [← CLASE PASADA](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-13) — [CLASE SIGUIENTE →](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-15)

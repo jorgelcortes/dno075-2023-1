@@ -1,6 +1,6 @@
 # Despliegue de gráficos con SVG en HTML
 
-### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 15 → 13/06/2023
+### [Infografía Digital, 6ta. versión](https://github.com/jorgelcortes/dno075-2023-1#readme) → Clase 15 → 13/06/2023
 
 En esta clase ajustaremos cada gráfica a su contexto: Una narración vertical, que debe adaptarse a distintos tamaños de pantalla.
 
@@ -25,8 +25,8 @@ Estas insistencias se pueden conectar con la idea de [la copia como necesaria pa
 
 > Dejarnos inspirar por el trabajo de otros es admitir la fascinación que éste nos provoca y, en las etapas de aprendizaje, copiar forma parte del proceso de aprender de los demás. Más adelante, copiar como tal dejará de tener sentido. Seguiremos observando todo lo que nos rodea, deteniéndonos en aquello que nos conmueve; apreciándolo y utilizándolo como fuente de inspiración, para crear algo único y original.
 
-El avance de la clase de hoy será considerado en la [evaluación Nº4](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-17).
+El avance de la clase de hoy será considerado en la [evaluación Nº4](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-17).
 
 - - - - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-14) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-16)
+###### [← CLASE PASADA](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-14) — [CLASE SIGUIENTE →](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-16)

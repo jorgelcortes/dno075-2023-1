@@ -1,6 +1,6 @@
 # Ajustes de HTML, SVG y CSS
 
-### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 16 → 20/06/2023
+### [Infografía Digital, 6ta. versión](https://github.com/jorgelcortes/dno075-2023-1#readme) → Clase 16 → 20/06/2023
 
 En esta clase conviene ajustar detalles de descripción (HTML, CSS) y programación (JavaScript).
 
@@ -20,8 +20,8 @@ Lo que hemos revisado sobre descripción y programación, además de la ayuda co
 
 - apruebe una evaluación de contraste figura/fondo en gráficas con **[Contrast Checker de WebAIM](https://webaim.org/resources/contrastchecker/)**; la que vendría después de asegurar que el esquema de color sea "colorblind safe" según [Color Brewer 2.0](https://colorbrewer2.org/).
 
-El avance de la clase de hoy será considerado en la [evaluación Nº4](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-17).
+El avance de la clase de hoy será considerado en la [evaluación Nº4](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-17).
 
 - - - - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-15) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-17)
+###### [← CLASE PASADA](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-15) — [CLASE SIGUIENTE →](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-17)

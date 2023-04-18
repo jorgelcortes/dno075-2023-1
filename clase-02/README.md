@@ -1,6 +1,6 @@
 # Gráficos figurativos, no figurativos y mixtos
 
-### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 02 → 14/03/2023 ✓
+### [Infografía Digital, 6ta. versión](https://github.com/jorgelcortes/dno075-2023-1#readme) → Clase 02 → 14/03/2023 ✓
 
 La segunda actividad del curso nos servirá para aprender a diferenciar a las gráficas figurativas, no-figurativas y mixtas.
 
@@ -19,7 +19,7 @@ Además, tendrán que probar los *data smaples* de [RAWGraph 2.0](https://app.ra
 
 #### AYUDA
 
-Tienen que usar el `index.html` en la carpeta de esta clase-02, que pueden ver como [resultado en línea](https://profesorfaco.github.io/dno075-2023-1/clase-02/) (gracias a GitHub Pages) o como [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-02/index.html)
+Tienen que usar el `index.html` en la carpeta de esta clase-02, que pueden ver como [resultado en línea](https://profesorfaco.github.io/dno075-2023-1/clase-02/) (gracias a GitHub Pages) o como [código fuente](https://github.com/jorgelcortes/dno075-2023-1/blob/main/clase-02/index.html)
 
 Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.com/) para:
 
@@ -54,4 +54,4 @@ Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.co
 
 - - - - - - - 
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-01) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-03)
+###### [← CLASE PASADA](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-01) — [CLASE SIGUIENTE →](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-03)

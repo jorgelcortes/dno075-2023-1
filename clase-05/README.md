@@ -1,6 +1,6 @@
 # Infografías con SVG en HTML
 
-### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 05 → 04/04/2023
+### [Infografía Digital, 6ta. versión](https://github.com/jorgelcortes/dno075-2023-1#readme) → Clase 05 → 04/04/2023
 
 En esta clase vamos a aprovecharnos de partes de 3 trabajos infográficos publicados por el South China Morning Post (SCMP). Publicados no sólo una sino dos veces, con dos versiones, una impresa y otra digital.
 
@@ -30,7 +30,7 @@ Para recuperar el "todo" de las infografías digitales sobre [Bamboo scaffolding
 
 **Para recuperar las partes que nos interesan en las infografías digitales ya referidas, podemos revisar el código fuente de cada una**.
 
-La manera más sencilla de acceder al código, para hacer esta revisión, es escribir `view-source:` justo antes del `https://…` en la barra de dirección del navegador web (esto funciona en Chrome y Firefox, los navegadores que consideramos como [herramientas del curso](https://github.com/profesorfaco/dno075-2023-1#herramientas)).
+La manera más sencilla de acceder al código, para hacer esta revisión, es escribir `view-source:` justo antes del `https://…` en la barra de dirección del navegador web (esto funciona en Chrome y Firefox, los navegadores que consideramos como [herramientas del curso](https://github.com/jorgelcortes/dno075-2023-1#herramientas)).
 
 Partamos con las **líneas 108 y 109 del código fuente de [Bamboo scaffolding in Hong Kong](https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/index.html)**, donde podemos encontrar un par de gráficas en SVG cuya dirección completa es:
 
@@ -112,5 +112,5 @@ Lo recomendable es que cada estudiante use [su cuenta en GitHub](https://github.
 
 - - - - - - - - - - 
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-04) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-06) 
+###### [← CLASE PASADA](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-04) — [CLASE SIGUIENTE →](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-06) 
 

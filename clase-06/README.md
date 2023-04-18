@@ -1,6 +1,6 @@
 # Evaluación Nº1 → Desafío de infografía con SVG en HTML
 
-### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 06 → 11/04/2023
+### [Infografía Digital, 6ta. versión](https://github.com/jorgelcortes/dno075-2023-1#readme) → Clase 06 → 11/04/2023
 
 Hubo una votación y arrasó la alternativa **B: Prueba/tarea**.
 
@@ -64,5 +64,5 @@ Tienen hasta las 12.50 hrs. del martes 11 de abril para completar su versión de
 
 - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-05) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-07) 
+###### [← CLASE PASADA](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-05) — [CLASE SIGUIENTE →](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-07) 
 

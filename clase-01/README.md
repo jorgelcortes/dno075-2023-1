@@ -1,6 +1,6 @@
 # Aprender y enseñar con gráficos
 
-### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 01 → 07/03/2023 ✓
+### [Infografía Digital, 6ta. versión](https://github.com/jorgelcortes/dno075-2023-1#readme) → Clase 01 → 07/03/2023 ✓
 
 La primera actividad del optativo nos servirá de diagnóstico. 
 
@@ -82,7 +82,7 @@ Google translate también les puede servir, para buscar traducciones de los golp
 
 #### AYUDA PARA LA PRESENTACIÓN ADAPTABLE A DISTINTOS TAMAÑOS DE PANTALLA
 
-Tienen que usar el `index.html` en la carpeta de esta clase-01, que pueden ver como [resultado en línea](https://profesorfaco.github.io/dno075-2023-1/clase-01/) (gracias a GitHub Pages) o como [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-01/index.html)
+Tienen que usar el `index.html` en la carpeta de esta clase-01, que pueden ver como [resultado en línea](https://profesorfaco.github.io/dno075-2023-1/clase-01/) (gracias a GitHub Pages) o como [código fuente](https://github.com/jorgelcortes/dno075-2023-1/blob/main/clase-01/index.html)
 
 Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.com/) para:
 
@@ -117,4 +117,4 @@ Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.co
 
 - - - - - - - 
 
-###### [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-02) 
+###### [CLASE SIGUIENTE →](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-02) 

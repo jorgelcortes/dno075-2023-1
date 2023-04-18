@@ -1,6 +1,6 @@
 # Infografía, infografistas y nuevas tecnologías
 
-### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 03 → 21/03/2023 ✓
+### [Infografía Digital, 6ta. versión](https://github.com/jorgelcortes/dno075-2023-1#readme) → Clase 03 → 21/03/2023 ✓
 
 La tercera actividad del curso nos servirá para conocer algunos nombres y aportes relevantes a la infografía en su desarrollo que se debe, primero, al periodismo impreso y, más tarde, al digital.
 
@@ -39,7 +39,7 @@ En la columna de "Transformer (s.XX)" pueden encontrar 7 nombres que aportaron a
 
 #### AYUDA
 
-Tienen que usar el `index.html` en la carpeta de esta clase-03, que pueden ver como [resultado en línea](https://profesorfaco.github.io/dno075-2023-1/clase-03/) (gracias a GitHub Pages) o como [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-03/index.html)
+Tienen que usar el `index.html` en la carpeta de esta clase-03, que pueden ver como [resultado en línea](https://profesorfaco.github.io/dno075-2023-1/clase-03/) (gracias a GitHub Pages) o como [código fuente](https://github.com/jorgelcortes/dno075-2023-1/blob/main/clase-03/index.html)
 
 Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.com/) para:
 
@@ -76,4 +76,4 @@ La entrega se resuelve dejando comentario en Foro que será creado en Canvas par
 
 - - - - - - - 
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-02) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-04) 
+###### [← CLASE PASADA](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-02) — [CLASE SIGUIENTE →](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-04) 

@@ -1,6 +1,6 @@
 # Definición de temática, subtemáticas y grupos para el trabajo final
 
-### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 11 → 16/05/2022
+### [Infografía Digital, 6ta. versión](https://github.com/jorgelcortes/dno075-2023-1#readme) → Clase 11 → 16/05/2022
 
 **A continuación se presentan 10 trabajos desarrollados por estudiantes en versiones pasadas de este Optativo. Los trabajos están agrupados en TEMÁTICAS, y el nombre de cada trabajo es la SUBTEMÁTICA**:
 
@@ -71,4 +71,4 @@ Ideal sería avanzar en la organización de tales apuntes hasta el *knowledge*:
 
 - - - - - - - - 
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-10) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-12) 
+###### [← CLASE PASADA](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-10) — [CLASE SIGUIENTE →](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-12) 

@@ -1,6 +1,6 @@
 # Infografías con SVG
 
-### [Infografía Digital, 6ta. versión](https://github.com/profesorfaco/dno075-2023-1#readme) → Clase 04 → 28/03/2023 ✓
+### [Infografía Digital, 6ta. versión](https://github.com/jorgelcortes/dno075-2023-1#readme) → Clase 04 → 28/03/2023 ✓
 
 **Ya hemos trabajado con imágenes rasterizadas**, que se describen mediante un conjunto o mapa de bits dentro de una cuadrícula rectangular de píxeles o puntos. Ya conocemos distintos formatos de archivo para este tipo de imágenes: `.GIF`, `.JPG` o `.PNG`. A tales podríamos sumar, más adelante, formatos "next-gen" tales como [`.WebP`](https://www.adobe.com/cl/creativecloud/file-types/image/raster/webp-file.html) o [`.AVIF`](https://es.wikipedia.org/wiki/AVIF).
 
@@ -40,7 +40,7 @@ O bien, podemos comenzar a generar nuestras propias imágenes vectoriales en Ado
 
 #### AYUDA
 
-Tienen que usar el `index.html` en la carpeta de esta clase-04, que pueden ver como [resultado en línea](https://profesorfaco.github.io/dno075-2023-1/clase-04/) (gracias a GitHub Pages) o como [código fuente](https://github.com/profesorfaco/dno075-2023-1/blob/main/clase-04/index.html)
+Tienen que usar el `index.html` en la carpeta de esta clase-04, que pueden ver como [resultado en línea](https://profesorfaco.github.io/dno075-2023-1/clase-04/) (gracias a GitHub Pages) o como [código fuente](https://github.com/jorgelcortes/dno075-2023-1/blob/main/clase-04/index.html)
 
 Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.com/) para:
 
@@ -75,4 +75,4 @@ Una persona en la dupla tendrá que usar [su cuenta en GitHub](https://github.co
 
 - - - - - - - 
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-03) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2023-1/tree/main/clase-05) 
+###### [← CLASE PASADA](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-03) — [CLASE SIGUIENTE →](https://github.com/jorgelcortes/dno075-2023-1/tree/main/clase-05) 
